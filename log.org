@@ -1,0 +1,5 @@
+* 2025-01-18 Sat
+- Went to HIVE with Cat and poked around to find components.
+- There are battery holders and batteries, BUT you cannot take
+  the battery holders out of the facility.
+- There are multicolored LEDs and SPST switches.
