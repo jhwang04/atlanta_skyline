@@ -6,3 +6,4 @@
 
 * 2025-01-20 Mon
 - Multicolored LEDs specify forward voltage and current.
+- Researched battery holders. Can find 5-pc battery holders (each holder holds 2 AA batteries for 3V) for about $8
