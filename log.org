@@ -3,3 +3,6 @@
 - There are battery holders and batteries, BUT you cannot take
   the battery holders out of the facility.
 - There are multicolored LEDs and SPST switches.
+
+* 2025-01-20 Mon
+- Multicolored LEDs specify forward voltage and current.
